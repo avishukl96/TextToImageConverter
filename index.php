@@ -1,6 +1,6 @@
 <?php
 
-
+  getTextImageByTitle('/files/textImage/','AVanish Shukla' , 300 , 200 );
 
 function getTextImageByTitle($file_name , $title = "Avanish Shukla" , $width =  300 , $height = 200){
 
